@@ -33,6 +33,7 @@
 - [Aman Kumar](https://github.com/Aman1124) - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=Aman1124)
 - [Prem Bhawnani](https://github.com/Prem-14)  - [View Contributions](https://github.com/piyushchauhan/iitp_pages/commits?author=Prem-14)
 - [Ritwiz](https://github.com/ritwizsinha) - [View Contributions](https://github.com/ritwizsinha/iitp_pages/commits?author=ritwizsinha)
+- [Sriram](https://github.com/SriramPingali) - [View Contributions](https://github.com/SriramPingali/iitp_pages/commits?author=SriramPipngali)
 
 ### [Contribute and Make a PR](https://github.com/piyushchauhan/iitp_pages/blob/master/CONTRIBUTING.md)
 
